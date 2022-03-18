@@ -124,7 +124,7 @@ w2I.Update()
 # Save the output
 wr = vtk.vtkJPEGWriter()
 wr.SetInputConnection(w2I.GetOutputPort())
-wr.SetFileName('assignment2_sharma_harsh.jpg')
+wr.SetFileName('sai.jpg')
 wr.Write()
 
 
