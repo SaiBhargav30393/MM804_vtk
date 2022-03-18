@@ -26,8 +26,8 @@ python Assignment2.py
 ## Output
 Once the above steps are executed the output obtained is as follows:
 
-![Screenshot](Capture.jpg)
+![Screenshot](Capture.JPG)
 
-![Screenshot](img2.jpg)
+![Screenshot](img2.JPG)
 
-![Screenshot](img3.jpg)
+![Screenshot](img3.JPG)
